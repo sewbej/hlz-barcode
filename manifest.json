@@ -1,15 +1,11 @@
 {
-  "name": "HLZ skaner",
-  "short_name": "Skaner",
-  "start_url": "./index.html",
-  "display": "standalone",
   "background_color": "#f0f2f5",
-  "theme_color": "#007bff",
-  "icons": [
-    {
-      "src": "https:hlz.netlify.app/hlz.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "HLZ skaner",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "HLZ skaner",
+  "start_url": "./index.html",
+  "theme_color": "#007bff"
 }
